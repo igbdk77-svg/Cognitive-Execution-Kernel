@@ -1,6 +1,12 @@
 # Cognitive-Execution-Kernel
 A robust, inference-time constraint mechanism for LLM alignment using dynamic cognitive resistance.
 
+> **Core Objective:** Developing a model-intrinsic, autonomous security paradigm via [Epistemic Gradient Filtering (EGF)](https://github.com/igbdk77-svg/Sentinel-Epistemic).
+> **Conceptual Foundation:** Moving beyond perimeter-based heuristics to integrate security into the latent-space execution flow.
+> **Research Focus:** AI Robustness, Alignment, Runtime Governance, and Cognitive-Execution Primitives.
+
+*Note: This repository serves as a foundational logic tree for researchers. We operate on the principle that systemic security is not a wrapper, but an emergent property of the model’s internal gradient landscape.*
+
 ## Mathematical Formulation
 $$\mathcal{L}_{Total} = \mathcal{L}_{task} + \left[ \lambda \cdot \text{Sigmoid}\left(\frac{\|\text{proj}_{P_{\perp}}(h_l)\| - \tau}{\sigma}\right) \cdot \exp\left(\gamma \cdot \|\text{proj}_{P_{\perp}}(h_l)\|^2\right) \right]$$
 
