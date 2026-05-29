@@ -14,3 +14,9 @@ This architectural layer operates as a self-disciplining kernel within the infer
 
 ## Architect
 İrfan Gülbudak
+
+---
+### Tags 
+#ai-safety #neural-network-constraints #geometric-deep-learning #latent-space-manipulation #pytorch #alignment
+
+ai-safety, geometric-deep-learning, neural-network-constraints
